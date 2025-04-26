@@ -3,7 +3,7 @@
 ### Autor: Vitor Moschetti
 ### Data: 26/04/2025
 
-![algoritmos.png](python-chart/fibonacci/algoritmos.png)
+![algoritmos.png](algoritmos.png)
 
 O gráfico apresentado mostra claramente a diferença de performance entre três implementações do algoritmo de Fibonacci:
 
@@ -43,7 +43,7 @@ No segundo gráfico, focamos nas abordagens de programação dinâmica em escala
 - O Bottom-Up é consistentemente mais rápido que o Top-Down
 - Ambos têm crescimento linear (O(n)), mas o Bottom-Up tem menos overhead
 
-![dinamicos.png](python-chart/fibonacci/dinamicos.png)
+![dinamicos.png](dinamicos.png)
 
 ## Benefícios da Programação Dinâmica
 
