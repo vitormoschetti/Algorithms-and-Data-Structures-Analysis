@@ -1,4 +1,4 @@
-package fibonacci;
+package programacaoDinamica;
 
 import java.util.Arrays;
 

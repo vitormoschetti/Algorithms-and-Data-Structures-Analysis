@@ -1,10 +1,9 @@
-package fibonacci;
+package programacaoDinamica;
 
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.List;
 
-import static fibonacci.Fibonacci.*;
+import static programacaoDinamica.Fibonacci.*;
 
 public class Main {
 
